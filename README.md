@@ -1,7 +1,9 @@
 # Todo App
 
 A responsive JavaScript todo app for managing daily tasks.
+## Live Demo
 
+Try the app here: https://lavim708.github.io/todo-app/
 ## Features
 
 - Add new tasks
